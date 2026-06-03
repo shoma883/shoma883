@@ -13,7 +13,7 @@
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.shion.dev/api?username=shoma883&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" /> -->
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20shoma883)](https://github.com/shoma883)
+<!-- [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20shoma883)](https://github.com/shoma883) -->
 
 
 
