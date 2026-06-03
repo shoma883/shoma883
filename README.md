@@ -4,7 +4,6 @@
 ## Hi there 👋
 
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoma883&theme=2077)
 
 <!-- [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=shoma883&theme=onedark)](https://github-profile-trophy-fork-two.vercel.app/?username=shoma883&theme=tokyonight)
